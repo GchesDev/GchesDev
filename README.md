@@ -5,6 +5,8 @@
 
 ![estatísticas do github de Charles](https://github-readme-stats.vercel.app/api?username=gchesdev&show_icons=true&theme=radical&locale=pt-br)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GchesDev&layout=compact)
+
 ## Tecnologias que estou aprendendo 🚀
 
 <div style="display: inline_block">
@@ -14,9 +16,9 @@
   
 </div><br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GchesDev&layout=compact)
 
 Enquanto for verdade: aprendo()
+
 ### Últimos projetos 💻
 
 [![RegressionLinear](https://img.shields.io/badge/Regressão-Linear-purple)](https://github.com/GchesDev/RegressionLinear)
