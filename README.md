@@ -15,6 +15,8 @@
 </div><br/>
 while True: learn()
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GchesDev&layout=compact)
+
 ### Últimos projetos 💻
 
 [![RegressionLinear](https://img.shields.io/badge/Regressão-Linear-purple)](https://github.com/GchesDev/RegressionLinear)
