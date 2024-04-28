@@ -19,6 +19,6 @@
 
 Enquanto for verdade: aprendo()
 
-### Últimos projetos 💻
+## Últimos projetos 💻
 
 [![RegressionLinear](https://img.shields.io/badge/Regressão-Linear-purple)](https://github.com/GchesDev/RegressionLinear)
