@@ -21,3 +21,4 @@ Enquanto for verdade: aprendo()
 ## Últimos projetos 💻
 
 [![RegressionLinear](https://img.shields.io/badge/Regressão-Linear-purple)](https://github.com/GchesDev/RegressionLinear)
+[![BankPY](https://img.shields.io/badge/BankPY-purple)](https://github.com/gchesdev/bankpy)
